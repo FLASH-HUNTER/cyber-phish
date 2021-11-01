@@ -1,10 +1,7 @@
-
-Telegrams 
-* https://t.me/Secnhacks 
-
 ### SCREENSHOT ( KALI )
-![1](https://github.com/KING-HANTER/cyber_phish/blob/2931e6d2e570bc4b3a84cc80383f17e6177a1c79/icone/Screenshot_2021-10-31_10_48_58.png)
-![2](https://user-images.githubusercontent.com/55870659/92331173-a8e04800-f042-11ea-8fd9-5aee83441280.png)
+<p align="center">
+<img src="https://github.com/KING-HANTER/cyber_phish/blob/2931e6d2e570bc4b3a84cc80383f17e6177a1c79/icone/Screenshot_2021-10-31_10_48_58.png">
+<img src="https://user-images.githubusercontent.com/55870659/92331173-a8e04800-f042-11ea-8fd9-5aee83441280.png"
 
 <br>
 <br>
@@ -83,5 +80,4 @@ The use of the Adv-Phishing is COMPLETE RESPONSIBILITY of the END-USER. Develope
 <p align="left">
   <a href="https://github.com/KING-HANTER" target="_blank"><img src="https://img.shields.io/badge/Github-king hanter-green?style=for-the-badge&logo=github"></a>
   <a href="https://www.instagram.com/hamid_rezakh1399" target="_blank"><img src="https://img.shields.io/badge/IG-%40king hanter-red?style=for-the-badge&logo=instagram"></a>
-  <a href="https://t.me/Secnhacks" target="_blank"><img src="https://github.com/KING-HANTER/cyber_phish/blob/80aa14063ecfcb36c24bbe09bf97625c7a7689ec/icone/897-                          8972864_telegram-telegram-logo-png.png-red?style=for-the-badge&logo=instagram"></a>
-</p>
+
