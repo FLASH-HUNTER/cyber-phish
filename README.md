@@ -30,19 +30,18 @@ Through This Features You can Obtains the Credentails on Your Gmail Account or S
 
 
 ### INSTALLATION [ TERMUX APP --ANDROID ]
-* git clone https://github.com/Ignitetch/AdvPhishing.git
-* cd AdvPhishing/
+* git clone https://github.com/KING-HANTER/cyber_phish.git
+* cd cyber-phish
 * chmod 777 *
 * ./Android-Setup.sh
-* ./AdvPhishing.sh
+* bash cyber-phish.sh
 
 ### INSTALLATION [ KALI ]
-* git clone https://github.com/Ignitetch/AdvPhishing.git
-* cd AdvPhishing/
+* git clone https://github.com/KING-HANTER/cyber_phish.git
+* cd cyber-phish
 * chmod 777 *
 * ./Linux-Setup.sh
-* ./AdvPhishing.sh
-
+* bash cyber-phish.sh
 
 /p>
 <a href="https://github.com/Ignitetch/AdvPhishing/releases"><img title="GitHub version" src="https://img.shields.io/badge/version-3.2-blue" ></a>  
