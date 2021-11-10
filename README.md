@@ -38,14 +38,14 @@ Through This Features You can Obtains the Credentails on Your Gmail Account or S
 
 
 ### INSTALLATION [ TERMUX APP --ANDROID ]
-* git clone https://github.com/FLASH-HANTER/cyber-phish.git
+* git clone https://github.com/FLASH-HUNTER/cyber-phish.git
 * cd cyber-phish
 * chmod 777 *
 * ./Android-Setup.sh
 * bash cyber-phish.sh
 
 ### INSTALLATION [ KALI ]
-* git clone https://github.com/FLASH-HANTER/cyber-phish.git
+* git clone https://github.com/FLASH-HUNTER/cyber-phish.git
 * cd cyber-phish
 * chmod 777 *
 * ./Linux-Setup.sh
